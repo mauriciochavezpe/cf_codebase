@@ -1,0 +1,5 @@
+applications:
+- name: CRUD
+  random-route: true
+  path: ./app
+  memory: 1024M
